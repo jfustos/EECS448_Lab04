@@ -1,0 +1,6 @@
+table, th, td
+{
+	text-align: right;
+	border: 1px solid black;
+	background-color: lightgray;
+}
